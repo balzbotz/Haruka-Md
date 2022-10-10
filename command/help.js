@@ -166,8 +166,6 @@ ${mundur}
  • ${prefix}antiwame
  • ${prefix}open
  • ${prefix}close
- • ${prefix}add
- • ${prefix}kick
  • ${prefix}promote
  • ${prefix}demote
  • ${prefix}revoke
